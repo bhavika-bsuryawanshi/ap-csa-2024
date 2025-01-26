@@ -1,0 +1,3 @@
+Files in the edu/willamette/cs1/wordle folder are necessary framework files for the game to run.
+You may feel free to peruse and see how they work, but changing any of the code in here may result
+in irreparable damage to the project. Warranty void if any code in this directory is changed :D
